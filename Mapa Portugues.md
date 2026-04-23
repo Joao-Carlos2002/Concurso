@@ -1,5 +1,5 @@
 Módulo 1: Fonética e Fonologia
-- Fonemas e Letras.
+- ~~Fonemas e Letras.~~
 - Encontros Vocálicos (Ditongo, Tritongo, Hiato).
 - Encontros Consonantais e Dígrafos.
 - Sílaba e Divisão Silábica.
