@@ -1,13 +1,13 @@
 Módulo 1: Fonética e Fonologia
 - ~~Fonemas e Letras.~~
-- Encontros Vocálicos (Ditongo, Tritongo, Hiato).
-- Encontros Consonantais e Dígrafos.
-- Sílaba e Divisão Silábica.
-- Tonicidade (Acentuação Tônica).
-- Ortoépia e Prosódia.
+- ~~Encontros Vocálicos (Ditongo, Tritongo, Hiato).~~
+- ~~Encontros Consonantais e Dígrafos.~~
+- ~~Sílaba e Divisão Silábica.~~
+- ~~Tonicidade (Acentuação Tônica).~~
+- ~~Ortoépia e Prosódia.~~
 Módulo 2: Ortografia e Acentuação
-- Alfabeto e Emprego das Letras (S, Z, X, CH, G, J, etc.).
-- Acentuação Gráfica (Regras Gerais e Casos Especiais).
+- ~~Alfabeto e Emprego das Letras (S, Z, X, CH, G, J, etc.).~~
+- ~~Acentuação Gráfica (Regras Gerais e Casos Especiais).~~
 - Uso do Hífen (Regras Pós-Acordo Ortográfico).
 - Uso do Porquê.
 - Emprego das iniciais maiúsculas.

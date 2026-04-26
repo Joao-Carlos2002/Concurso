@@ -1,4 +1,3 @@
-### Fonemas
 Representam os sons das letras.
 ### Letras
 Representam os sons em forma escrita.

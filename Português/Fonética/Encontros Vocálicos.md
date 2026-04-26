@@ -1,0 +1,86 @@
+São encontros de vogais e semivogais (vogais ditas com menos força), sem consoantes envolvidas.
+#### Ditongos
+É o encontro de uma vogal e uma semivogal, após a separação silábica as duas devem permanecer juntas.
+- Ditongos Crescentes: São aqueles em que as semivogais vem antes das vogais. Ex: igual (i - gual), quota (quo - ta), pátria (pá - tria).
+- Ditongos Decrescentes: São aqueles em que as vogais vem antes das semivogais. Ex: meu (meu), herói (he - rói), cai (cai).
+
+Palavras com ditongo:
+- automóvel (**au**-to-mó-vel)
+- boi (b**oi**)
+- cai (c**ai**)
+- céu (c**éu**)
+- deus (d**eu**s)
+- eu (**eu**)
+- frequente (fre-q**ue**n-te)
+- grat**ui**to (gra-t**ui**-to)
+- herói (he-r**ói**)
+- igual (i-g**ua**l)
+- j**ei**to (j**ei**to)
+- levem (le-v**em**)
+- madeira (ma-d**ei**-ra)
+- mãe (m**ãe**)
+- mau (m**au**)
+- meu (m**eu**)
+- muito (m**ui**-to)
+- n**oi**te (n**oi**-te)
+- oi (**oi**)
+- outro (**ou**-tro)
+- pap**ai** (pa-pai)
+- pátria (pá-tr**ia**
+- quota (q**uo**-ta)
+- respeito (res-p**ei**-to)
+- sabão (sa-b**ão**)
+- sei (s**ei**)
+- tranquilo (tran-q**ui**-lo)
+- viu (v**iu**)
+#### Tritongos
+É o encontro de semivogal + vogal + semivogal, ficam juntas mesmo após a separação silábica. Ex: Uruguai (U - ru- guai), saguão (sa - guão), enxaguam (en - xa - guam).
+
+ Palavras com tritongo:
+- apaziguou (a-pa-zi-g**uou**)
+- desaguou (de-sa-g**uou**)
+- enxaguam (en-xa-g**uam**)
+- enxaguei (en-xa-g**uei**)
+- enxaguem (en-xa-g**uem**)
+- iguais (i-g**uai**s)
+- minguem (min-g**uem**)
+- Paraguai (Pa-ra-g**uai**)
+- paraguaio (pa-ra-g**uai**-o)
+- quais (q**uai**s)
+- quão (q**uão**)
+- saguão (sa-g**uão**)
+- saguões (sa-g**uõe**s)
+- Uruguai (U-ru-g**uai**)
+- uruguaio (u-ru-g**uai**-o)
+- uruguaiano (u-ru-g**uai**-a-no)
+#### Hiato
+É o encontro de duas vogais que se separam na separação silábica. Ex: raíz (ra - íz), Saara (Sa - a -ra), país (pa - ís).
+
+Palavras com hiato:
+- afiado (a-f**i**-**a**-do)
+- águia (á-gu**i**-**a**)
+- álcool (ál-c**o**-**o**l)
+- baú (b**a**-**ú**)
+- coelho (c**o**-**e**-lho)
+- dia (d**i**-**a**)
+- elogio (e-lo-g**i**-**o**)
+- faísca (f**a**-**í**s-ca)
+- gênio (gê-n**i**-**o**)
+- hiato (h**i**-**a**-to)
+- iate (**i**-**a**-te)
+- juiz (j**u**-**i**z)
+- karaokê (ka-r**a**-**o**-kê)
+- leão (l**e**-**ã**o)
+- lua (l**u**-**a**)
+- moeda (m**o**-**e**-da)
+- navio (na-v**i**-**o**)
+- oceano (o-c**e**-**a**-no)
+- país (p**a**-**í**s)
+- quieto (qu**i**-**e**-to)
+- raiz (r**a**-**i**z)
+- Saara (S**a**-**a**-ra)
+- saída (s**a**-**í**-da)
+- tio (**ti**-**o**)
+- unicórnio (u-ni-cór-n**i**-**o**)
+- voo (v**o**-**o**)
+- zoológico (z**o**-**o**-ló-gi-co)
