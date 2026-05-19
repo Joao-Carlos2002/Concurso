@@ -19,15 +19,9 @@
   "syncMethod": "merge",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
-<<<<<<< HEAD
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-=======
-  "autoBackupAfterFileChange": false,
-  "treeStructure": false,
-  "refreshSourceControl": false,
->>>>>>> d863ad700995c3b5e64141015a4a405cd2a54689
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
@@ -38,11 +32,7 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-<<<<<<< HEAD
   "authorInHistoryView": "hide",
-=======
-  "authorInHistoryView": "initials",
->>>>>>> d863ad700995c3b5e64141015a4a405cd2a54689
   "dateInHistoryView": false,
   "diffStyle": "split",
   "hunks": {
@@ -71,7 +61,6 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   }
