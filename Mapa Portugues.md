@@ -8,8 +8,8 @@ Módulo 1: Fonética e Fonologia
 Módulo 2: Ortografia e Acentuação
 - ~~Alfabeto e Emprego das Letras (S, Z, X, CH, G, J, etc.).~~
 - ~~Acentuação Gráfica (Regras Gerais e Casos Especiais).~~
-- ~~Uso do Hífen (Regras Pós-Acordo Ortográfico).~~
-- ~~Uso do Porquê.~~
+- Uso do Hífen (Regras Pós-Acordo Ortográfico).
+- Uso do Porquê.
 - Emprego das iniciais maiúsculas.
 Módulo 3: Morfologia – Estrutura e Formação de Palavras
 - Radical, Vogal Temática, Tema e Afixos.

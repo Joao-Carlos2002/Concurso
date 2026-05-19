@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "723c80ab1ce01b4d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Imagens/Drawing 2026-05-02 22.19.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-02 22.19.26.excalidraw"
-            }
-          },
-          {
             "id": "b483470fd8a05433",
             "type": "leaf",
             "state": {
@@ -58,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
