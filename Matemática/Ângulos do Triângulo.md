@@ -1,4 +1,0 @@
-- Soma dos ângulos
-	- Internos: Sempre será 180°;
-	- Externos: Sempre será 360°.
-	- TESTEdsad

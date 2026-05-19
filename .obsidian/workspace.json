@@ -4,61 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "71b2b7a8a1f0c487",
+        "id": "dcf47bdc17bf559f",
         "type": "tabs",
         "children": [
           {
-            "id": "723c80ab1ce01b4d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Imagens/Drawing 2026-05-02 22.19.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-02 22.19.26.excalidraw"
-            }
-          },
-          {
-            "id": "b483470fd8a05433",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/fração_para_nm.png"
-              },
-              "icon": "lucide-image",
-              "title": "fração_para_nm"
-            }
-          },
-          {
-            "id": "ca05c88855d44f57",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/dn_dif_sub.png"
-              },
-              "icon": "lucide-image",
-              "title": "dn_dif_sub"
-            }
-          },
-          {
-            "id": "448557c28a2bedb3",
+            "id": "6664d3ea3fe529aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemática/Ângulos do Triângulo.md",
+                "file": "Português/Ortografia/Uso do Hífen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ângulos do Triângulo"
+              "title": "Uso do Hífen"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Frações.md",
+                "file": "Português/Fonética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Frações"
+              "title": "Links inversos para Fonética"
             }
           },
           {
@@ -193,21 +156,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matemática/Frações.md",
+                "file": "Português/Fonética.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Frações"
+              "title": "Sumário de Fonética"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -219,36 +181,17 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "448557c28a2bedb3",
+  "active": "6664d3ea3fe529aa",
   "lastOpenFiles": [
-    "Português/Fonética/Acentuação Tônica.md",
-    "Matemática/Ângulos do Triângulo.md",
-    "Código de Trânsito Brasileiro - CTB/Classificação de gravidade das multas.md",
-    "Mapa Portugues.md",
-    "Português/Ortografia/Uso do Porquê.md",
-    "Mapa Matematica.md",
-    "Matemática/Frações.md",
-    "Imagens/dn_dif_soma.png",
-    "Imagens/dn_dif_sub.png",
-    "Imagens/fração_para_nm.png",
-    "Imagens/Drawing 2026-05-02 22.19.26.excalidraw.md",
-    "Matemática/fração_para_nm (1).png",
-    "Imagens",
-    "Matemática/Conjuntos.md",
-    "Excalidraw/Drawing 2026-05-02 21.36.58.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-02 21.34.29.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-02 21.33.02.excalidraw.md",
-    "Matemática/Drawing 2026-05-02 21.34.29.excalidraw.png",
-    "Excalidraw/Drawing 2026-05-02 21.34.29.excalidraw.png",
-    "Sem título.base",
-    "Português/Ortografia/Uso do Hífen.md",
     "Sem título 1.md",
+    "Português/Ortografia/Uso do Hífen.md",
+    "Mapa Portugues.md",
     "Português/Ortografia",
     "Sem título.md",
+    "Português/Fonética/Acentuação Tônica.md",
     "Português/Fonética/Fonemas.md",
     "Português/Fonética/Separação Silábica.md",
     "Português/Fonética/Encontros Consonantais.md",
@@ -256,6 +199,7 @@
     "Português/Fonética",
     "Código de Trânsito Brasileiro - CTB/Classificação das Vias.md",
     "Código de Trânsito Brasileiro - CTB",
+    "Mapa Matematica.md",
     "Novo(a) Documento de Texto.txt",
     "pre-calculus-roadmap.md",
     "pre-calculus-roadmap.txt",
